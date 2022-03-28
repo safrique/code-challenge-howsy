@@ -1,5 +1,4 @@
-# code-challenge
-Howsy Software Engineer Code Challenge
+# Howsy Software Engineer Code Challenge
 
 This test allows you to demonstrate the skills that will be required as a Software Developer at Howsy. We primarily use PHP at Howsy and would prefer submissions in this format however we will accept submissions in other OOP languages (Java, Python, Ruby) *but please note, day-to-day you will probably be writing PHP*
 
