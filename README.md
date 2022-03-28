@@ -23,7 +23,7 @@ The products are below:
 
 Your job is to implement the basket which should have the following interface:
 
-Basket can be initialised with offer(s) user is eligible for
-It has an add method to add a product
-Each individual product can only be added to the basket one time
-It has a total method that returns the total cost of the basket - remember to take into account any valid offers
+1. Basket can be initialised with offer(s) user is eligible for
+2. It has an add method to add a product
+3. Each individual product can only be added to the basket one time
+4. It has a total method that returns the total cost of the basket - remember to take into account any valid offers
