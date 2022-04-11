@@ -27,3 +27,5 @@ Your job is to implement the basket which should have the following interface:
 2. It has an add method to add a product
 3. Each individual product can only be added to the basket one time
 4. It has a total method that returns the total cost of the basket - remember to take into account any valid offers
+
+## There is no need to build any front end components. The interface and behaviours should be validated by the code and its associated automated tests.
