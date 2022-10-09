@@ -29,3 +29,18 @@ Your job is to implement the basket which should have the following interface:
 4. It has a total method that returns the total cost of the basket - remember to take into account any valid offers
 
 ## There is no need to build any front end components. The interface and behaviours should be validated by the code and its associated automated tests.
+
+# Instructions
+
+1. Fork the repository from https://github.com/safrique/code-challenge-howsy
+2. Clone the repository to the local machine.
+3. From within the new project directory, run the following commands to set up the dependencies and start the docker 
+   container:
+
+
+    docker-composer up -d
+    composer install
+3. Run the following command to run the automated tests:
+
+
+    ./vendor/bin/phpunit tests
