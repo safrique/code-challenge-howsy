@@ -32,6 +32,12 @@ Your job is to implement the basket which should have the following interface:
 
 # Instructions
 
+## System Requirements
+
+It is assumed that the user has Docker & Composer installed globally.
+
+## Instructions to run app
+
 1. Fork the repository from https://github.com/safrique/code-challenge-howsy
 2. Clone the repository to the local machine.
 3. From within the new project directory, run the following commands to set up the dependencies and start the docker 
